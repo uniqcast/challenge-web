@@ -1,6 +1,6 @@
 # Challenge: Web
 
-The goal of this challenge is to build a single page web application for weather forecast. Application should be built with vanilla HTML, CSS and JS technologies, and should work in all major browsers.
+The goal of this challenge is to build a single page web application for weather forecast. Application should be built with vanilla HTML, CSS and JS technologies and should work in all major browsers.
 
 ## Application Behaviour
 
